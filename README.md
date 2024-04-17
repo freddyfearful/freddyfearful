@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @freddyfearful
-- 👀 I’m interested in learning to use github
+- 👀 I’m a pro Githuber
 - 🌱 I’m currently learning website and database stuff
 - 📫 my discord tag is `funded.`
 
